@@ -15,3 +15,5 @@ MENTOR: NEELA SANTOSH
 Tool:Google Colab
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a6dc44fa-8835-483c-9f68-c56f788e8cbe)
